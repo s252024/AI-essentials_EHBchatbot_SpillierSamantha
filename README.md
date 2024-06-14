@@ -30,7 +30,7 @@ This repository contains the code for a chatbot that sends POST requests to an A
 ## Project Structure
 
 - `index.html`: The HTML file for the chatbot interface.
-- 'images': folder with the chosen background
+- `images/`: Folder containing images used in the project, including the background image.
 
 
 ## License
